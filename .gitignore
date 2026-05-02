@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+node_modules/
+videos/brutos/*.mp4
+videos/editados/*.mp4
+.DS_Store
